@@ -3,7 +3,7 @@ layout: post
 title: Welcome to my first blog post
 date: 2018-10-13 00:00:00 +0500
 description: I'm setting up my first post page
-img: https://res.cloudinary.com/totallycurious/image/upload/v1539433115/Blog/1.start.jpg
+img: 1.start.jpg
 tags: [first, codenewbie, jekyll, blog, github]
 ---
 
